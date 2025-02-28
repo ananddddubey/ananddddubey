@@ -6,8 +6,8 @@ I'm a passionate developer with interests in Machine Learning, Web Development, 
 
 Here are some of my notable projects:
 
-### [Hand-Recognition-Model](https://github.com/ananddddubey/Hand-Recognition-Model)
-A model designed for hand recognition using Python.
+### [Vision Transformers on HSI dataset]([https://github.com/ananddddubey/Vision-Transformers])
+A model was designed using Vision Transformers on Hyperspectral Image Dataset.
 
 ### [Portfolio](https://github.com/ananddddubey/Portfolio)
 My personal portfolio website built with HTML.
