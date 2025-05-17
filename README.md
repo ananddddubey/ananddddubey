@@ -7,10 +7,10 @@ I'm a passionate developer with interests in Machine Learning, Web Development, 
 Here are some of my notable projects:
 
 ### [Vision Transformers on HSI dataset]([https://github.com/ananddddubey/Vision-Transformers])
-A model was designed using Vision Transformers on Hyperspectral Image Dataset.
+A model was designed using Vision Transformers on the Hyperspectral Image Dataset.
 
 ### [Portfolio](https://github.com/ananddddubey/Portfolio)
-My personal portfolio website built with HTML.
+My personal portfolio website was built with HTML.
 
 ### [Re-Dact](https://github.com/ananddddubey/Re-Dact)
 A Python project focused on data redaction.
@@ -31,7 +31,7 @@ I'm open to collaborating on hackathons and innovative projects. Feel free to re
 - **Email:** [ananddubey722@gmail.com](mailto:ananddubey722@gmail.com)
 - **Portfolio:** [anandportfolio-git-main-ananddddubeys-projects.vercel.app](https://anandportfolio-git-main-ananddddubeys-projects.vercel.app/)
 
-## ⚡ Fun Fact
+## ⚡ Facts about me
 
-I'm both an ML developer and a web developer, and I love playing the guitar in my free time.
+I'm an ML developer, a Research Partner, and a Data Analyst, and I love Solo Travel.
 
